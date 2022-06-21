@@ -1,0 +1,53 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+    font-family: 'DM Sans', sans-serif;;
+}
+
+body {
+    background-color: rgba(219, 174, 157, 0.822);
+
+}
+.principal_window {
+    width: 70vw;
+    height: 80vh;
+    background-color: rgb(238, 231, 231);
+
+    
+}
+.principal_window p {
+    font-size: large;
+    font-family: 'Signika Negative', sans-serif;
+}
+.principal_window img {
+    width: 200px;
+    height: 200px;
+    
+}
+.next {
+    width: 250px;
+    height: 157px;
+    position: relative;
+    top: 20px
+}
+.principal_window1 p {
+    font-size: large;
+    font-family: 'Signika Negative', sans-serif;
+}
+.principal_window1 {
+    width: 70vw;
+    min-width: 754px;
+    height: 100%;
+    background-color: rgb(238, 231, 231);
+     margin-top: 20px;
+     margin-left: 30px;
+     margin-right: 30px;
+     padding: 20px;
+     border-radius: 20px;
+    
+}
